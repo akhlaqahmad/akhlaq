@@ -37,11 +37,11 @@
 
 ### 📊 GitHub Stats
 
-[![Akhlaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhlaqahmad&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/akhlaqahmad)
+[![Akhlaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhlaqahmad&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/akhlaqahmad)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaqahmad&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/akhlaqahmad)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaqahmad&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true)](https://github.com/akhlaqahmad)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhlaqahmad&theme=radical&hide_border=true)](https://github.com/akhlaqahmad)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhlaqahmad&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/akhlaqahmad)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaqahmad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
