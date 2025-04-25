@@ -46,6 +46,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaqahmad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<p align="center">
+  <a href="https://www.buymeacoffee.com/akhlaq" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
 
 ### 📬 Connect With Me
 
